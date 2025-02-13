@@ -8,4 +8,6 @@ A no-excuses, tough-love chatbot that speaks like **David Goggins**—raw, inten
 - Run the chatbot and get after it!  
 
 ## 💬 Enjoy & Talk to David!  
-No excuses. No shortcuts. Stay hard!  
+No excuses. No shortcuts. Stay hard! 
+
+### https://talk-with-goggins.netlify.app/
